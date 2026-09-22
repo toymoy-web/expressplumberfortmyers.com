@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://expressplumberfortmyers.com/sitemap.xml
